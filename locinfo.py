@@ -6,7 +6,7 @@ import webbrowser
 URL = "http://maps.googleapis.com/maps/api/geocode/json"
 
 # location given here
-location = input("Please enter something: ")
+location = input("Lokasi yang anda cari: ")
 
 # defining a params dict for the parameters to be sent to the API
 PARAMS = {'address':location}
