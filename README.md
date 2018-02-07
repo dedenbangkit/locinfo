@@ -20,3 +20,6 @@ Link:https://www.google.com/maps/place/Garut Kota, Garut Regency, West Java, Ind
 
 Buka Google Maps Seakarang. [ya/tidak]? : ya // open new google maps within the location
 ```
+
+## License
+MIT
