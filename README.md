@@ -18,5 +18,5 @@ Longitude:107.9235563
 Format Alamat:Garut Kota, Garut Regency, West Java, Indonesia
 Link:https://www.google.com/maps/place/Garut Kota, Garut Regency, West Java, Indonesia
 
-Buka Google Maps Seakarang. [ya/tidak]? :
+Buka Google Maps Seakarang. [ya/tidak]? : ya // open new google maps within the location
 ```
