@@ -4,7 +4,7 @@ Search location with Google Maps API
 ## Basic Installation
 
 ```
-$ git clone https://github.com/dedenbangkit/locinfo ~/.locinfo
+$ git clone https://github.com/dedenbangkit/locinfo 
 $ sh locinfo/run.sh
 ```
 ## Usage
