@@ -1,4 +1,7 @@
 # locinfo
+
+[![asciicast](https://asciinema.org/a/Yh3GvhclOPr81HFKTzd5WkBr5.svg)](https://asciinema.org/a/Yh3GvhclOPr81HFKTzd5WkBr5)
+
 Search location with Google Maps API
 
 ## Basic Installation
@@ -22,13 +25,6 @@ $ export GOOGLE_MAP_APIKEY='YOUR_GOOGLE_MAP_APIKEY'
 
 ```
 $ locinfo
-
- ██╗      ██████╗ ██╗  ██╗ █████╗ ███████╗██╗
- ██║     ██╔═══██╗██║ ██╔╝██╔══██╗██╔════╝██║
- ██║     ██║   ██║█████╔╝ ███████║███████╗██║
- ██║     ██║   ██║██╔═██╗ ██╔══██║╚════██║██║
- ███████╗╚██████╔╝██║  ██╗██║  ██║███████║██║
- ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
 
 Lokasi yang anda cari: Jl. Tukad Badung XI no 3 
 
